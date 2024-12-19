@@ -1,0 +1,9 @@
+.vscode/
+*.zip
+*.html
+*.cpp
+*.h
+*.c
+*.exe
+*.pdf
+*.py
